@@ -1,3 +1,8 @@
+## 👀 How to use 
+- &nbsp; 1.Run exe or download files in zip and setup files in a folder.
+- &nbsp; 2.Run .bat file by double click.
+- &nbsp; 3.Go Through the steps.
+
 <h2> Hey there! I'm Mahesh. 
 <img align="right" alt="GIF" src="https://github.com/ItsMaheshHere/Multimedia/raw/main/gif3.gif" width="500"/>
 
