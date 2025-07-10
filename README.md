@@ -1,9 +1,12 @@
 ## 👀 How to use 
 - &nbsp; 1.Run exe or download files in zip and setup files in a folder.
 - &nbsp; 2.Run .bat file by double click.
+- &nbsp; If you setup files manually on your system then make sure all modules are installed!
 - &nbsp; 3.Go Through the steps.
 
-<h2> Hey there! I'm Mahesh. 
+<h2>Ensure you press enter after filling personal information,resume summary and experience!</h2>
+
+<h2> Hey there! I'm Mahesh. </h2>
 <img align="right" alt="GIF" src="https://github.com/ItsMaheshHere/Multimedia/raw/main/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
